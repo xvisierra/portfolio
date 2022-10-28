@@ -3,7 +3,7 @@ export const educationData = [
         id: 1,
         institution: 'Airforce School',
         course: 'Primary',
-        startYear: '200',
+        startYear: '2000',
         endYear: '2008'
     },
     {
