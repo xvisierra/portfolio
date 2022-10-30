@@ -7,7 +7,7 @@ export const achievementData = {
             details : 'an online non-credit course authorized by Google and offered through Coursera',
             date : 'Jan 27, 2022',
             field : 'Coding',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-0cd075aa-f55b-4d9f-aec0-119020a4e792.jpg?v=1611846350000'
+            image : 'https://images.pexels.com/photos/14222030/pexels-photo-14222030.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'
         },
         {
             id : 2,
@@ -58,11 +58,67 @@ export const achievementData = {
             image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
         },
         {
-            id : 5,
-            title : 'Machine learning to Deep Learning: A journey for remote sensing data classification' ,
+            id : 6,
+            title : 'Overview of Web GIS Technology' ,
             details : 'an online non-credit course offered by IIRS and authorized by ISRO',
-            date : 'Jul 19, 2022',
+            date : 'Jul 10, 2021',
             field : 'IIRS,ISRO',
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
+        },
+        {
+            id : 7,
+            title : 'Satellite based Navigation: A Journey from GPS to Mobile Phone Platform' ,
+            details : 'an online non-credit course offered by IIRS and authorized by ISRO',
+            date : 'Mar 30, 2021',
+            field : 'IIRS,ISRO',
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
+        },
+        {
+            id : 5,
+            title : 'Software Engineering Virtual Experience' ,
+            details : 'an online non-credit virtual Internship offered by JPMorgan Chase and offered by Forage',
+            date : 'Aug 5, 2022',
+            field : 'JPMorgan Chase,Forage',
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
+        },
+        {
+            id : 6,
+            title : 'Python Programming' ,
+            details : 'an online non-credit course offered by Great Learning',
+            date : 'Dec, 2021',
+            field : 'Great Learning',
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
+        },
+        {
+            id : 7,
+            title : '5-day Workshop on Advanced C Programming with Placement Perspective' ,
+            details : 'an online 5 day Workshop organized by RNSIT',
+            date : 'Oct 12, 2021',
+            field : 'RNSIT',
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
+        },
+        {
+            id : 7,
+            title : 'Learn and Master C Programming For Absolute Beginners!' ,
+            details : 'an online non-credit course offered by Infosys SpringBoard',
+            date : 'Sep 20, 2021',
+            field : 'Infosys Springboard',
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
+        },
+        {
+            id : 7,
+            title : 'Speak Up' ,
+            details : 'an online non-credit course offered by Infosys SpringBoard',
+            date : 'Sep 8, 2021',
+            field : 'Infosys Springboard',
+            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
+        },
+        {
+            id : 7,
+            title : 'Understanding Social Styles' ,
+            details : 'an online non-credit course offered by Infosys SpringBoard',
+            date : 'Sep 18, 2021',
+            field : 'Infosys Springboard',
             image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
         }
 
