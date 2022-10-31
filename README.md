@@ -10,18 +10,11 @@
 
 ## Table of Contents :scroll:
 - [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
-- [Themes](#themes-art)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
+- [Demo](#demo-movie_camera)    
 - [Folder Structure](#folder-structure-open_file_folder)
-- [Usage](#usage-joystick)
-- [Hosting](#hosting-globe_with_meridians)
-- [SEO](#seo-spider)
 - [Packages Used](#packages-used-package)
 - [APIs Used](#apis-used-world_map)
 - [Fonts and Images](#fonts-and-images-performing_arts)
-- [Upcoming Features](#upcoming-features-construction)
 - [Contributors](#contributors-man_technologistwoman_technologist)
 
 <br /><br />
@@ -219,40 +212,6 @@ export const educationData = [
     },
     //
 ]
-```
-
-### Instructions and format for each section can be found inside the data files.
-<br></br>
-
-```html
-    <meta name="description" content="--- SITE DESCRIPTION ---" />
-    <meta property="og:image" content="--- YOUR IMAGE ---">
-    <meta property="og:site_name" content="--- YOUR NAME ---"/>
-    <meta property="og:title" content="--- YOUR NAME ---"/>
-    <meta property="og:url" content="--- YOUR SITE URL ---"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:description" content="--- SITE DESCRIPTION ---"/>
-    <meta property="og:locale" content="---  ---">
-    <meta property="og:image" content="--- YOUR IMAGE ---"/>
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    
-    <meta itemprop="name" content="--- YOUR NAME ---"/>
-    <meta itemprop="url" content="--- YOUR SITE URL ---"/>
-    <meta itemprop="description" content="--- SITE DESCRIPTION ---"/>
-    <meta itemprop="thumbnailUrl" content=""/>
-    <link rel="image_src" href="--- YOUR IMAGE ---"/>
-    <meta itemprop="image" content="--- YOUR IMAGE ---"/>
-    
-    <meta name="twitter:site" content="@--- YOUR TWITTER USERNAME ---">
-    <meta name="twitter:creator" content="@--- YOUR TWITTER USERNAME ---">
-    <meta name="twitter:url" content="--- YOUR SITE URL ---"/>
-    <meta name="twitter:title" content="--- YOUR NAME ---">
-    <meta name="twitter:description" content="--- SITE DESCRIPTION ---">
-    <meta name="twitter:image" content="--- YOUR IMAGE ---">
-    <meta name="twitter:card" content="summary"/>
-
-```
 
 <br />
 
