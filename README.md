@@ -44,7 +44,7 @@
 <br /><br />
 
 # Demo :movie_camera:
-![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif)
+![](https://i.imgur.com/SXIQUhi.png)
 ## View live demo [here](https://xvisierra.github.io/portfolio).
 
 <br />
@@ -497,7 +497,7 @@ export const educationData = [
 
 <br />
 
-# Contributors :man_technologist::woman_technologist:
+# Refrences :man_technologist::woman_technologist:
 
 <div>
     <table>
