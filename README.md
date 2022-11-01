@@ -11,18 +11,10 @@
 ## Table of Contents :scroll:
 - [Sections](#sections-bookmark)
 - [Demo](#demo-movie_camera)
-- [Themes](#themes-art)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
 - [Folder Structure](#folder-structure-open_file_folder)
-- [Usage](#usage-joystick)
-- [Hosting](#hosting-globe_with_meridians)
-- [SEO](#seo-spider)
 - [Packages Used](#packages-used-package)
 - [APIs Used](#apis-used-world_map)
 - [Fonts and Images](#fonts-and-images-performing_arts)
-- [Upcoming Features](#upcoming-features-construction)
-- [Contributors](#contributors-man_technologistwoman_technologist)
 
 <br /><br />
 
@@ -42,7 +34,7 @@
 
 # Demo :movie_camera:
 ![](https://i.imgur.com/SXIQUhi.png)
-## View live demo [here](https://xvisierra.github.io/).
+## View live demo [here](https://xvisierra.github.io/portfolio).
 
 <br />
 
