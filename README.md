@@ -210,7 +210,4 @@
 - [Bestermind](https://www.dafont.com/bestermind.font)
 - [Roboto](https://fonts.google.com/specimen/Roboto)
 
-<br />
-
-<br /><br />
-<br />  
+<br /> 
