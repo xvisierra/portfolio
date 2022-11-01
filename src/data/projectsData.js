@@ -11,13 +11,22 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Personal Diary Management System',
+        projectName: 'Real-Estate House Price Prediction Model',
+        projectDesc: 'Created a Real-Estate House Price prediction model using Numpy , Panda and Seaborn hosted at Google Collab.',
+        tags: ['Python', 'Panda','Numpy','Seabed'],
+        code: 'https://colab.research.google.com/drive/1292iz-YcAdEYHX5lj9lWLaWW_VxEqGgV?usp=sharing',
+        demo: 'https://colab.research.google.com/drive/1292iz-YcAdEYHX5lj9lWLaWW_VxEqGgV?usp=sharing',
+        image: "https://i.imgur.com/VWZIZTF.png"
+    },
+    {
+        id: 2,
+        projectName: 'Password Protected Pesonal Diary Management System',
         projectDesc: 'Password Protected Personal Diary Management System is based on concept to generate Personal Daily Records and to add records & update it. Here User can add their daily details safely and it’s not time consuming.',
         tags: ['C++', 'C'],
         code: 'https://github.com/xvisierra/pdmsc',
         demo: 'https://github.com/xvisierra/pdmsc/blob/main/diary.exe',
         image: "https://code-projects.org/wp-content/uploads/2018/05/Screenshot-4095000.png"
-    },
+    }
    
     
 ]
