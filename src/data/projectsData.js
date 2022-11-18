@@ -26,6 +26,24 @@ export const projectsData = [
         code: 'https://github.com/xvisierra/pdmsc',
         demo: 'https://github.com/xvisierra/pdmsc/blob/main/diary.exe',
         image: "https://code-projects.org/wp-content/uploads/2018/05/Screenshot-4095000.png"
+    },
+    {
+        id: 3,
+        projectName: 'Console application implementing Map Coloring',
+        projectDesc: 'Color a map such that two regions with a common border are assigned different using Greedy approach.',
+        tags: ['C++', 'C'],
+        code: 'https://github.com/xvisierra/mapcoloring',
+        demo: 'https://github.com/xvisierra/mapcoloring',
+        image: "https://i.imgur.com/Sxao46d.png"
+    },
+    {
+        id: 4,
+        projectName: 'Portoflio website using React.js',
+        projectDesc: 'An interactive portfolio website made with react.js and sheetdb to showcase the user skills.',
+        tags: ['React.js', 'Javascript','HTML'],
+        code: 'https://github.com/xvisierra/portfolio',
+        demo: 'https://xvisierra.github.io/portfolio',
+        image: "https://i.imgur.com/bzjsBxU.png"
     }
    
     
