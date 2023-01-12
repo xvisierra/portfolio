@@ -1,5 +1,5 @@
 export const achievementData = {
-    bio : "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. - Alvin Toffler",
+    bio : "I have completed a number of certification courses from esteemed organizations such as Coursera, Devtown, and ISRO. All of my certificates are available to view on my LinkedIn profile, demonstrating my dedication to continuous learning and professional development. These courses have helped me deepen my understanding of a variety of programming and technology-related subjects.",
     achievements : [
         {
             id : 1,

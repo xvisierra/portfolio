@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "Hello! My name is Sameer kumar singh. I'm an aspiring web developer based in India.",
-    description2: "I am a student at RNS Institute of Technology, currently learning Fullstack Web-Development. A project that I worked on towards the end of my Sophomore's year set me on this path of a web developer. Working on it was such a thrilling experience that a career in this felt like a right fit. Other than this I am a bibliophile, who not just loves reading books but also buying and maintaining a personal library.",
+    description1: "I am a skilled programmer with proficiency in C++, C, Python, and Java. I have experience in web development using HTML, CSS, and JavaScript, and have knowledge of ReactJS and Bootstrap for building user interfaces and SQL for databases.",
+    description2: "I possess strong problem-solving and analytical skills, and I am able to work well in a team environment. I am familiar with version control systems such as Git and Agile development methodologies. Furthermore, I have the ability to learn and adapt to new technologies quickly, and I have strong communication skills with a keen attention to detail.",
     image: 2
 }
